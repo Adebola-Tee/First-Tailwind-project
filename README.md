@@ -1,1 +1,2 @@
 # First-Tailwind-project
+It's been weeks of procastination and I've finally made the move to learn Tailwindcss by working on this miniproject. I was prompted to learn this framework because I sometimes have issues in making my projects' pages responsive. I also do not want to limit my css framework skill to only Bootstrap. I'm happy I gave it a try and it's worth it!
